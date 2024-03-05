@@ -1,0 +1,95 @@
+/* Fonts */
+@font-face{
+    font-family: 'Liebe Finden';
+    src: url(fonts/liebe-finden.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Lovely';
+    src: url(fonts/Lovely.ttf) format('truetype');
+}
+
+/* Animations */
+@keyframes rubberBand {
+    0% {
+        -webkit-transform: scaleX(1);
+        transform: scaleX(1)
+    }
+
+    30% {
+        -webkit-transform: scale3d(1.25,.75,1);
+        transform: scale3d(1.25,.75,1)
+    }
+
+    40% {
+        -webkit-transform: scale3d(.75,1.25,1);
+        transform: scale3d(.75,1.25,1)
+    }
+
+    50% {
+        -webkit-transform: scale3d(1.15,.85,1);
+        transform: scale3d(1.15,.85,1)
+    }
+
+    65% {
+        -webkit-transform: scale3d(.95,1.05,1);
+        transform: scale3d(.95,1.05,1)
+    }
+
+    75% {
+        -webkit-transform: scale3d(1.05,.95,1);
+        transform: scale3d(1.05,.95,1)
+    }
+
+    to {
+        -webkit-transform: scaleX(1);
+        transform: scaleX(1)
+    }
+}
+
+body{
+    margin: 0;
+    background-color: hsl(251, 24%, 72%);
+}
+
+header{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+header > section:first-of-type{
+    font-family: 'Liebe Finden', sans-serif;
+    background-color: hsl(329, 66%, 87%);
+    width: 650px;
+    padding-top: 300px;
+    text-align: center;
+}
+
+header > section p{
+    font-size: 1.7em;
+}
+
+header > section h1{
+    font-size: 5.5em;
+    animation: rubberBand 1s 0.2s both;
+}
+
+header img{
+    width: auto;
+    height: 941px;
+}
+
+main{
+    margin-top: 0;
+}
+
+main > section:first-of-type{
+    background-color: hsl(196, 40%, 57%);
+}
+
+main > section h2{
+    font-size: 2.5em;
+    font-family: 'Lovely', sans-serif;
+    font-weight: lighter;
+    text-align: center;
+}
