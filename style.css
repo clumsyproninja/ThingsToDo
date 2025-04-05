@@ -53,14 +53,14 @@ body{
 }
 
 header{
-    display: flex;
-    flex-direction: row;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
 }
 
 header > section:first-of-type{
     font-family: 'Liebe Finden', sans-serif;
     background-color: hsl(329, 66%, 87%);
-    width: 600px;
+    width: 650px;
     padding-top: 300px;
     text-align: center;
 }
@@ -75,21 +75,21 @@ header > section h1{
 }
 
 header img{
-    width: 1305px;
-    height: 950px;
+    width: auto;
+    height: 941px;
 }
 
 main{
-    border: 1px solid black;
+    margin-top: 0;
 }
 
 main > section:first-of-type{
     background-color: hsl(196, 40%, 57%);
-    padding: 0;
 }
 
 main > section h2{
     font-size: 2.5em;
     font-family: 'Lovely', sans-serif;
+    font-weight: lighter;
     text-align: center;
 }
