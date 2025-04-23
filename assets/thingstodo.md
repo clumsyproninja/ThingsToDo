@@ -92,11 +92,6 @@
 - Paramus Park Mall
 
 ### Planning Soon
-- Branch Brook Park Cherry Blossoms
-  - Location: Newark NJ
-  - Time: 19 Minutes
-  - Price: Free
-  - April 6 - April 13
 - Medieval Times
   - Location: Lyndhurst NJ
   - Time: 10 Minutes
