@@ -38,7 +38,7 @@
 
 # Welcome to stephy and fluffy todo list!!!
 <img class="pics" src="https://tinyurl.com/55fzzxsc" alt="Shiba Inu face closeup" height=300px width=auto>
-
+you're gay as fuck 
 <span><strong>Table of Contents</strong></span>
 
 - [Welcome to stephy and fluffy todo list!!!](#welcome-to-stephy-and-fluffy-todo-list)
