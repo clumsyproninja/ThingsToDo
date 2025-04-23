@@ -99,7 +99,7 @@
 - Luna Parc
   - Location: Sandyston NJ
   - Time: 1hr 16 Minutes
-  - Price: TBD (Reopening in May, check in April for dates)
+  - Price: $20 per person
   
 ### Seasonal And Yearly Places
 - Branch Brook Park or other parks to see Cherry Blossoms in April
