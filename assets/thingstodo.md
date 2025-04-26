@@ -92,6 +92,7 @@
 - Paramus Park Mall
 
 ### Planning Soon
+- Tulip Picking!!!!!!  at any farm sometime in May
 - Medieval Times
   - Location: Lyndhurst NJ
   - Time: 10 Minutes
@@ -99,7 +100,7 @@
 - Luna Parc
   - Location: Sandyston NJ
   - Time: 1hr 16 Minutes
-  - Price: $20 per person
+  - Price: $20 per person (Scheduled for June 14 at 11:00AM!!!!)
   
 ### Seasonal And Yearly Places
 - Branch Brook Park or other parks to see Cherry Blossoms in April
@@ -263,7 +264,7 @@
   - Location: Jersey City NJ
   - Time: 40 Minutes
   - Price: TBD (Need to make account to see prices)
-  - Jennifer Chalsty Planetarium and LSC Giant Dome Theater :white_check_mark:
+- Jennifer Chalsty Planetarium and LSC Giant Dome Theater :white_check_mark:
   - Location: Jersey City
   - Time: 40 Minutes
   - Price: $31 per person
@@ -334,7 +335,7 @@
 - Luna Parc
   - Location: Sandyston NJ
   - Time: 1hr 16 Minutes
-  - Price: TBD (Reopening in May, check in April for dates)
+  - Price: $20 per person (Only open during April-June)
 - Grounds For Sculpture :white_check_mark:
   - Location: Hamilton Township NJ
   - Time: 1hr 25 Minutes
@@ -415,6 +416,7 @@
 - Sarku Japan
 - Olive Garden
 - San Antonio
+- Chili's
 - KFC
 - McDonalds
 - Blimpie
