@@ -43,8 +43,9 @@
 
 - [Welcome to stephy and fluffy todo list!!!](#welcome-to-stephy-and-fluffy-todo-list)
   - [Places](#places)
-    - [Go to's](#go-tos)
+    - [Go to's \& Favorite Places](#go-tos--favorite-places)
     - [Malls](#malls)
+    - [Arcades](#arcades)
     - [Planning Soon](#planning-soon)
     - [Seasonal And Yearly Places](#seasonal-and-yearly-places)
     - [Nearby Places](#nearby-places)
@@ -72,13 +73,15 @@
 <img class="pics" src="https://tinyurl.com/57d6t7m5" alt="Dogs traveling">
 </section>
 
-### Go to's
+### Go to's & Favorite Places
 - Daiso in Edgewater & Little Ferry
-- Hmart in Little Ferry
 - Little Japan in Edgewater
+- Kinokuniya Bookstore in Edgewater
+- Hmart in Little Ferry
+- Burlington
+- Marshalls
+- TJ Maxx
 - Thrift stores
-- Humdingers in Paramus
-- Dave & Busters in Wayne
 - CUPS Ice Cream in Clifton
 - My very comfortable home
 
@@ -91,8 +94,11 @@
 - Newport Center
 - Paramus Park Mall
 
+### Arcades
+- Dave & Buster's (Wayne)
+- Humdingers (Paramus)
+
 ### Planning Soon
-- Tulip Picking!!!!!!  at any farm sometime in May
 - Medieval Times
   - Location: Lyndhurst NJ
   - Time: 10 Minutes
@@ -104,7 +110,7 @@
   
 ### Seasonal And Yearly Places
 - Branch Brook Park or other parks to see Cherry Blossoms in April
-- Tulip Picking in April-May
+- Tulip Picking in April
 - Carnivals/Fairs in June-August
 - Fireworks in July
 - Pumpkin Patches in October
@@ -123,6 +129,10 @@
   - Location: Nutley, NJ
   - Time: 9 Minutes (Open 3rd Sunday of each month)
   - Price: TBD
+- Medieval Times
+  - Location: Lyndhurst NJ
+  - Time: 10 Minutes
+  - Price: $63.71 per person with coupon. Coupon Expires: 06/30/2025
 - Iviswold Castle
   - Location: Rutherford NJ
   - Time: 10 Minutes
@@ -394,6 +404,8 @@
 </section>
 
 ### Try Out
+- Texas Roadhouse
+- Cheesecake Factory
 - Bagel Brunch
 - Wahizza Ridgefield Park
 
@@ -434,6 +446,7 @@
 - Noches De Colombia
 - Jersey Mike's Subs
 - Pizza Studio
+- Red Robin yummmmmmm
 - ~~La Fondita (Deprecated)~~ :sob:
 
 ### Dessert/Snacks
