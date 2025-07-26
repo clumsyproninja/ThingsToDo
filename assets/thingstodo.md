@@ -57,9 +57,10 @@
     - [Breakfast](#breakfast)
     - [Lunch/Dinner](#lunchdinner)
     - [Dessert/Snacks](#dessertsnacks)
-  - [Foods to try](#foods-to-try)
-    - [Everyday Home](#everyday-home)
-    - [Try Out Now!!!](#try-out-now)
+  - [Foods Of Interest](#foods-of-interest)
+    - [Simple Everyday](#simple-everyday)
+    - [Cook or takeout](#cook-or-takeout)
+    - [Desserts](#desserts)
   - [Movies](#movies)
     - [Animation/Fantasy](#animationfantasy)
     - [Comedy](#comedy)
@@ -460,31 +461,51 @@
 
 <section>
 
-## Foods to try
+## Foods Of Interest
 <img class="pics" src="https://tinyurl.com/4fe4ej7t" alt="">
 </section>
 
-### Everyday Home
-- Ham and cheese sandwhich
-- Peanut butter and jelly sandwhich
+### Simple Everyday
 - Grilled cheese sandwhich
-- Bagels
-- Conchas
+- PBJ sandwhich
 - Quesadillas
 - Mac and cheese
+- Bagels
+- Conchas
+- French toast
+- Hot dogs
+- Wraps
 
-### Try Out Now!!!
-- Dango :white_check_mark:
-- Curry
-- Tiramisu
+### Cook or takeout
 - Sushi
+- Japanese curry
+- Tiramisu
 - Poutine
-- Ramen burger
-- Brazilian Feijoada
-- Bandeja Paisa
-- Habichuelas con Dulce
+- Empanadas
+- Pad Thai
+- Ramen
+- Rice with chicken
+- Los tres golpes dominicana
+- La bandera dominicana
+- Lu Rou Fan
+- Chicken Alfredo
+- Chilaquiles
+- Chicken Teriyaki
+- Onigiri
+- Tteokbokki
+- Buffalo Chicken Wraps
+- Chicken and Waffles
+- Egg Curry
+- Spaghetti and Meatballs
+- Chicken Katsu Bento
+
+### Desserts
+- Dango :white_check_mark:
+- Cupcakes
 - Majarete
 - Dominican Arepa
+- Habichuelas con dulce
+- Churros
 
 <section>
 
