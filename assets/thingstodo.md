@@ -545,7 +545,8 @@
 - The Mask :white_check_mark:
 - Beetlejuice :white_check_mark:
 - The Three Stooges
-- Dumb and Dumber
+- Dumb and Dumber :white_check_mark:
+- Dumb and Dumber To
 - Beverly Hills Ninja
 - The Suicide Squad
 - Minecraft Movie :white_check_mark:
