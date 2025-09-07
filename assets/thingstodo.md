@@ -103,11 +103,7 @@
 - Medieval Times
   - Location: Lyndhurst NJ
   - Time: 10 Minutes
-  - Price: $63.71 per person with coupon. Coupon Expires: 06/30/2025
-- Luna Parc
-  - Location: Sandyston NJ
-  - Time: 1hr 16 Minutes
-  - Price: $20 per person (Scheduled for June 14 at 11:00AM!!!!)
+  - Price: $63.71 per person with coupon. Coupon Expires: 10/31/2025
   
 ### Seasonal And Yearly Places
 - Branch Brook Park or other parks to see Cherry Blossoms in April
@@ -133,7 +129,7 @@
 - Medieval Times
   - Location: Lyndhurst NJ
   - Time: 10 Minutes
-  - Price: $63.71 per person with coupon. Coupon Expires: 06/30/2025
+  - Price: $63.71 per person with coupon. Coupon Expires: 10/31/2025
 - Iviswold Castle
   - Location: Rutherford NJ
   - Time: 10 Minutes
@@ -283,7 +279,7 @@
   - Location: Jersey City NJ
   - Time: 40 Minutes
   - Price: Free
-- Statue of Liberty Cruises from Liberty State Park
+- Statue of Liberty Cruises from Liberty State Park 
   - Location: Jersey City NJ
   - Time: 40 Minutes
   - Price: $25.80 per person
@@ -299,7 +295,7 @@
   - Location: Far Hills NJ
   - Time: 46 Minutes
   - Price: Free
-- NJ State Botanical Garden
+- NJ State Botanical Garden :white_check_mark:
   - Location: Ringwood NJ
   - Time: 47 Minutes
   - Price: Depends on season
